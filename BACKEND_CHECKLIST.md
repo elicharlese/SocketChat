@@ -62,7 +62,7 @@ This checklist is designed to guide the development of a robust, production-read
 
 ## 8. **Deployment**
 - [x] Ensure production build passes (`next build`).
-- [ ] Push code to GitHub main branch.
+- [x] Push code to GitHub main branch.
 - [ ] Set up Vercel project for automatic deployments from GitHub.
 - [ ] Configure environment variables in Vercel dashboard.
 - [ ] Test production deployment for all features.
